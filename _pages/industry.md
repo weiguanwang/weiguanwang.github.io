@@ -1,9 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /others/
-sidebar:
-  nav: "sidenav"
+permalink: /industry/
 author_profile: false
 ---
 
