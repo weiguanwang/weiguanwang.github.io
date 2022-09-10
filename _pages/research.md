@@ -1,9 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /research/
-sidebar:
-  nav: "sidenav"
+permalink: /publications/
 author_profile: false
 ---
 
