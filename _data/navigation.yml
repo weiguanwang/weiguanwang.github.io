@@ -4,7 +4,13 @@ main:
     url: /publications/   
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+
+  - title: "Grant"
+    url: /grant/
+
+  - title: "Students"
+    url: /students/  
 
   - title: "Industry"
     url: /industry/  

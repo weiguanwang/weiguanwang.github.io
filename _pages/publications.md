@@ -20,6 +20,8 @@ author_profile: false
    Presented by Weiguan Wang at: [LSE Financial Mathematics Reading Group](https://www.lse.ac.uk/Mathematics/Events-and-Seminars/Financial-Maths-Reading-Group), London, Apr. 2019. A layman introduction of this paper can be found in [Maths at LSE Blog](https://blogs.lse.ac.uk/maths/2021/01/19/hedging-with-machine-learning-methods/).
 
 1. [Neural networks for option pricing and hedging: A literature review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3486363), **Journal of Computational Finance**, 2020, volume 24, number 1, pages 1–45. (with [Johannes Ruf](http://www.maths.lse.ac.uk/Personal/jruf/)) 
+
+
 ***Papers submitted to peer-reviewed journals***
 
 ***Working papers***
