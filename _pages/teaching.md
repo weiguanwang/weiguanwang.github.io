@@ -2,14 +2,12 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
-sidebar:
-  nav: "sidenav"
 author_profile: false
 ---
 
 ***Instructor***
 
-- Derivatives Market, MSc. Finance, Shanghai University, 2021
+- Derivatives Market,  Shanghai University, 202-2022, full and part time MSc. Finance.
 
 
 ***Teaching Assistant***
