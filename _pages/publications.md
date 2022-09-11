@@ -9,7 +9,7 @@ author_profile: false
 
 ***Published and forthcoming papers in peer-reviewed journals***
 
-3. [A note on spurious model selection](https://www.tandfonline.com/doi/full/10.1080/14697688.2022.2097120) (with [Johannes Ruf](http://www.maths.lse.ac.uk/Personal/jruf/)). [[code]](https://github.com/weiguanwang/Information_Leakage_in_Backtesting). Forthcoming in the **Quantitative Finance**. A full version of this paper is available under the title, [Information leakage in backtesting](http://ssrn.com/abstract=3836631), available at SSRN 3836631
+3. [A note on spurious model selection](https://www.tandfonline.com/doi/full/10.1080/14697688.2022.2097120) (with [Johannes Ruf][JR]). [[code]](https://github.com/weiguanwang/Information_Leakage_in_Backtesting). Forthcoming in the **Quantitative Finance**. A full version of this paper is available under the title, [Information leakage in backtesting](http://ssrn.com/abstract=3836631), available at SSRN 3836631
 
    Presented by Weiguan at: [7th International Young Finance Scholars’ Conference](https://www.pku.org.uk/iyfs/Programme.html)
 
@@ -34,3 +34,6 @@ author_profile: false
 
 1. [Statistical Hedging with Neural Networks](http://weiguanwang.github.io/files/Theses/PhD_Thesis.pdf). Thesis for the Ph.D. in Mathematics, LSE, 2021. 
 2. [Optimal Execution Under Nonlinear Transient Market Impact Model](http://weiguanwang.github.io/files/Theses/Master_Dissertation.pdf). Thesis for the MSc. in Financial Mathematics, UCL, 2015.
+
+
+[JR]: http://www.maths.lse.ac.uk/Personal/jruf/
