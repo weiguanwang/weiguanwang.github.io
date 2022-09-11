@@ -14,4 +14,4 @@ I am an assistant professor of Finance at School of Economics, Shanghai Universi
 My research interests include Machine Learning with applications to Quantitative Finance. Click for my [CV](https://weiguanwang.github.io/files/CV/cv.pdf).
 
 
-$jr
+$jr; 
