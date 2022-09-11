@@ -28,6 +28,7 @@ author_profile: false
 
 1. Statistical hedging in multi-period with neural networks.
 2. Benchmarking deep hedging.
+3. Deep hedging with signature for non-Markovian setting.
 
 ***Theses***
 
