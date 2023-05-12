@@ -7,7 +7,8 @@ author_profile: false
 
 ***Instructor***
 
-- Derivatives Market,  Shanghai University, 202-2022, full and part time MSc. Finance.
+- Derivatives Market,  Shanghai University, 2021-Now, full- and part- time MSc. Finance.
+- Machine Learning, Shanghai University, 2022-Now, undergraduates of Econimics and Finance.
 
 
 ***Teaching Assistant***
