@@ -1,0 +1,190 @@
+\documentclass[10pt,a4paper,roman,english]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+\moderncvstyle{classic}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+\usepackage[scale=0.75,a4paper]{geometry}
+\usepackage{babel}
+\usepackage{xeCJK} % for Chinese characters %%   用XeLatex运行
+
+% Set up footer and Page counter
+\usepackage{lastpage}
+\pagestyle{fancy}
+\fancyhf{}
+\lfoot{\small{Weiguan Wang}}
+\cfoot{\small Updated on: \today}
+\rfoot{\small{Page \thepage\ of \pageref*{LastPage}}}
+
+
+% Define subsubsection
+\renewcommand*{\sectionfont}{\Large\mdseries\upshape}
+\renewcommand*{\subsectionfont}{\large\mdseries\upshape}
+\newcommand*{\subsubsectionfont}{\mdseries}% New subsubsection font
+\newcommand*{\subsubsectionstyle}[1]{{\subsubsectionfont\textcolor{black}{#1}}}
+\makeatletter
+\NewDocumentCommand{\subsubsection}{sm}{%
+	\par\addvspace{1ex}%
+	\phantomsection{}% reset the anchor for hyperrefs
+	\addcontentsline{toc}{subsubsection}{#2}%
+	\begin{tabular}{@{}p{\hintscolumnwidth}@{\hspace{\separatorcolumnwidth}}p{\maincolumnwidth}@{}}%
+		\raggedleft\hintstyle{} &{\strut\subsubsectionstyle{#2}}%
+	\end{tabular}%
+	\par\nobreak\addvspace{0.5ex}\@afterheading}% to avoid a pagebreak after the heading
+\makeatother
+
+%----------------------------------------------------------------------------------
+%            personal data
+%----------------------------------------------------------------------------------
+\firstname{\LARGE 王伟冠}
+\familyname{\LARGE }
+
+%\title{}                               % optional, remove/comment the line if not wanted
+\address{经济学院金融系}{上海大学}{中国}       % optional, remove/comment the line if not wanted; the "country" arguments can be omitted or provided empty
+%\mobile{mobile number}                          % optional, remove/comment the line if not wanted
+%\phone{phone number}                           % optional, remove/comment the line if not wanted
+%\fax{fax number}                             % optional, remove/comment the line if not wanted
+\email{weiguanwang@outlook.com}                               % optional, remove/comment the line if not wanted
+\homepage{weiguanwang.github.io/}                         % optional, remove/comment the line if not wanted
+\extrainfo{国籍：中国}                 % optional, remove/comment the line if not wanted
+% \photo[64pt][0.4pt]{picture}                       % optional, uncomment the line if wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{}                                 % optional, remove/comment the line if not wanted
+%
+
+\begin{document}
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+
+\section{工作经历}
+\cventry{2021--至今}{金融学讲师}{上海大学}{中国}{}{}
+
+
+\section{研究兴趣}
+\cvitem{}{金融工程, 金融科技, 对冲, 机器学习, 投资组合管理}
+
+\section{教育经历}
+\cventry{2016--2021}{数学博士}{伦敦政治经济学院}{}{}{导师: Johannes Ruf \\ 毕业论文: Statistical Hedging with Neural Networks
+\\答辩委员会: Johannes Muhle-Karbe and Mihail Zervos}  % arguments 3 to 6 can be left empty
+\cventry{2014--2015}{金融数学硕士}{伦敦大学学院}{}{Distinction}{毕业论文: Optimal Execution Under Nonlinear Transient Market Impact Model}
+\cventry{2009--2013}{自动化工学学士}{东华大学}{上海}{}{}
+
+
+\section{科研成果}
+
+\subsection{已发表论文}
+
+\cvlistitem{Johannes Ruf and \underline{Weiguan Wang}, Hedging with linear regressions and neural networks, available at SSRN.  \textbf{Journal of Business \& Economic Statistic}, 2022,  40(4), 1442-1454, 通讯作者
+	%	\\
+	%	\textit{Abstract}: We study neural networks as nonparametric estimation tools for the hedging of options. To this end, we design a network, named HedgeNet, that directly outputs a hedging strategy. This network is trained to minimise the hedging error instead of the pricing error. Applied to end-of-day and tick prices of S\&P 500 and Euro Stoxx 50 options, the network is able to reduce the mean squared hedging error of the Black-Scholes benchmark significantly. We illustrate, however, that a similar benefit arises by simple linear regressions that incorporate the leverage effect. 
+}
+
+\cvlistitem{\underline{Weiguan Wang} and Johannes Ruf,  A note on spurious model selection.  \textbf{Quantitative Finance}， 2022，22(10), 1797-1800, 第一作者
+	%	\\
+	%	\textit{Abstract:} Testing the performance of statistical models with historical time series requires a careful handling of the data. 
+	%	Even if a dataset is seemingly completely separated in an in-sample and an out-of-sample set information may be leaked. Such leakage can lead to a significant overestimation of the out-of-sample performance of a predictive model. We provide experimental evidence to illustrate how randomised data splits lead to overfitting in the presence of time series structure. The experiment is set up in the framework of option replication, with real-world and simulated data.
+}
+
+\cvlistitem{Johannes Ruf and \underline{Weiguan Wang}， Neural networks for option pricing and hedging: A literature review, \textbf{Journal of Computational Finance}, 2020, 24 , 1-46，通讯作者 
+%\\
+%\textit{Abstract:} Neural networks have been used as a nonparametric method for option pricing and hedging since the early 1990s. Far over a hundred papers have been published on this topic. This note intends to provide a comprehensive review. Papers are compared in terms of input features, output variables, benchmark models, performance measures, data partition methods, and underlying assets. Furthermore, related work and regularisation techniques are discussed.
+}
+
+
+
+
+%\subsection{Papers submitted to peer-reviewed journals}
+
+%\subsection{Working papers}
+
+
+%
+%\subsection{Work in progress}
+%\cvlistitem{Statistical hedging in multi-period with neural networks.}
+
+\subsection{主持科研课题}
+\cvlistitem{应用机器学习技术的期权对冲方法研究，国家自然科学基金青年项目，批准号：72201158，主持人， 30万元人民币，2023-2025}
+\cvlistitem{上海大学英才起航, 主持人，15万元人民币，2022-2024}
+\cvlistitem{上海高校青年教师培养资助计划, 主持人，2万元人民币，2022-2024}
+
+
+\section{人才项目}
+\cvlistitem{上海市领军人才计划青年潜力人才，2023}
+
+\section{会议}
+
+\subsection{演讲}
+
+\cvlistitem{Information Leakage in Backtesting, 7th International Young Finance Scholar's Conference, in virtual, 2021 }
+\cvlistitem{Hedging with Linear Regressions and Neural Networks, LSE Financial Mathematics Reading Group, 2018 \& 2019}
+
+
+\subsection{参与}
+\cvlistitem{12th European Summer School in Mathematical Finance, Padova, 2019 }
+\cvlistitem{LSE Ph.D. Day,  London, 2018,  2019}
+\cvlistitem{17th Winter School in Mathematical Finance, Lunteren, 2017}
+\cvlistitem{LSE Risk and Stochastic Conference, London, 2016 \& 2017}
+
+
+\section{教学}
+
+\subsection{授课教师}
+\cvitemwithcomment{2021--至今}{衍生品市场}{上海大学金融专硕}
+\cvitemwithcomment{2022--至今}{机器学习基本原理和金融应用}{上海大学金融本科}
+
+
+\subsection{助教}
+\cvitemwithcomment{2018--2019}{Computational Methods in Financial Maths}{LSE, Summer School}
+\cvitemwithcomment{2017--2019}{Mathematical Methods}{LSE, Undergraduate}
+\cvitemwithcomment{2017--2019}{Programming in C++}{LSE, MSc. Fin. Maths}
+
+
+%\section{Thesis (Co-)Supervision}
+%
+%\subsection{Master}
+%\cvitem{Name}{item description}
+%
+%\subsection{Bachelor}
+%
+%\cvitem{Name}{item description}
+
+\section{审稿}
+\cvitem{}{Journal of Finance and Data Science, Journal of Commodity Markets, North American Journal of Finance and Economics, International Journal of Applied and Theoretical Finance, Journal of Banking and Finance}
+
+
+%\section{Grants}
+
+
+
+\section{获奖}
+
+\cvitemwithcomment{2019}{Final year Ph.D. Scholarship}{LSE}
+\cvitemwithcomment{2013}{优秀毕业生}{东华大学}
+\cvitemwithcomment{2011 \& 2012}{学习优秀奖}{东华大学}
+\cvitemwithcomment{2010}{上海市奖学金}{上海市教委 }
+\cvitemwithcomment{2010}{东华大学奖学金}{东华大学}
+
+
+\section{业界经历}
+
+\cventry{20.12--21.01}{量化分析 (实习))}{Huatai Securities (华泰证券)}{Shanghai}{Fixed Income}{Constructed zero curves, implemented Z-Spread calculation, and conducted research in \\  understanding the movement of Z-Spread in Chinese fixed income market.}
+\cventry{20.08--20.09}{量化分析 (实习)}{Qianxiang Asset Management (千象资产)}{Shanghai}{Commodity Trading}{Implemented optimal liquidation algorithms under transient market impact models.}
+\cventry{20.06--20.08}{量化分析 (实习)}{Zheshang Securities (浙商证券)}{Shanghai}{Financial Derivatives}{Validated pricing models for exotic options including shark fin, snowball, and others.}
+
+\section{计算机技能}
+\cvitem{}{C++, \LaTeX, Linux, Matlab, Microsoft Office, Python, R}
+
+
+
+
+%\section{Computer skills}
+%\cvdoubleitem{Category 1}{Comment}{Category 4}{Comment}
+%
+%
+%\section{References}
+%\begin{cvcolumns}
+%  \cvcolumn{Category 1}{Comment}
+%  \cvcolumn{Category 2}{Comment}
+%  \cvcolumn{Category 3}{Comment}
+%\end{cvcolumns}
+
+
+\end{document}
