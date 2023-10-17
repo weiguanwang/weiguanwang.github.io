@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.16)  17 OCT 2023 14:50
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.16)  17 OCT 2023 14:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1462,10 +1462,6 @@ LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
 (Font)              scaled to size 5.99936pt on input line 55.
 LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 55.
-LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <9> not 
-available
-(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on
- input line 55.
 
 (e:/Apps/texlive/2021/texmf-dist/tex/latex/microtype/mt-TU-empty.cfg
 File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonsta
@@ -1492,31 +1488,36 @@ LaTeX Font Info:    Font shape `TU/LatinModernRoman(0)/m/sl' in size <10> not a
 vailable
 (Font)              Font shape `TU/LatinModernRoman(0)/m/it' tried instead on i
 nput line 58.
+[1
+
+]
+Overfull \hbox (94.48196pt too wide) in paragraph at lines 109--109
+ []\TU/LatinModernRoman(0)/m/it/9 Shanghai
+ []
+
+
+Overfull \hbox (49.95807pt too wide) in paragraph at lines 109--109
+[]|[]
+ []
+
+[2]
 LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10> not
  available
 (Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on
- input line 58.
-[1
-
-] 
+ input line 165.
+ 
 AED: lastpage setting LastPage
-[2] (./cv.aux)
-
-Package rerunfilecheck Warning: File `cv.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `cv.out':
-(rerunfilecheck)             Before: 25DFDB07A9DBF56DD9D35D1AD28CC33A;1273
-(rerunfilecheck)             After:  190E728AA35BB0C68B231843D32DA354;1263.
+[3] (./cv.aux)
+Package rerunfilecheck Info: File `cv.out' has not changed.
+(rerunfilecheck)             Checksum: 52300B7C77D259FC9A72E92D1E3E532F;2649.
  ) 
 Here is how much of TeX's memory you used:
- 33584 strings out of 476275
- 672668 string characters out of 5812905
- 1171525 words of memory out of 5000000
- 53643 multiletter control sequences out of 15000+600000
- 406736 words of font info for 106 fonts, out of 8000000 for 9000
+ 33531 strings out of 476275
+ 669458 string characters out of 5812905
+ 1164351 words of memory out of 5000000
+ 53596 multiletter control sequences out of 15000+600000
+ 406688 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 129i,14n,128p,999b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 129i,12n,128p,999b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv.pdf (2 pages).
+Output written on cv.pdf (3 pages).
