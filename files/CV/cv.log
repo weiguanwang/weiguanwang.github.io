@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.1)  7 DEC 2023 14:39
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.1)  7 DEC 2023 14:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1097,12 +1097,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
-
- []
-
-
-Overfull \hbox (4.91196pt too wide) in paragraph at lines 121--121
+Overfull \hbox (4.91196pt too wide) in paragraph at lines 120--120
  []\TU/lmr/m/it/9 Shanghai
  []
 
@@ -1110,7 +1105,7 @@ Overfull \hbox (4.91196pt too wide) in paragraph at lines 121--121
 LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10> not
  available
 (Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on
- input line 178.
+ input line 177.
  
 AED: lastpage setting LastPage
 [3] (./cv.aux)
