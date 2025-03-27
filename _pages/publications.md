@@ -8,8 +8,9 @@ author_profile: false
 ## PUBLICATIONS
 
 ***Published and forthcoming papers in peer-reviewed journals***
+4. [Risk premium principal component in the Chinese stock market](https://www.sciencedirect.com/science/article/pii/S0927538X24003317) (with Jie Mao, Jingjing Shao). **Pacific-Basin Finance Journal**.
 
-3. [A note on spurious model selection](https://www.tandfonline.com/doi/full/10.1080/14697688.2022.2097120) (with [Johannes Ruf][JR]). [[code]](https://github.com/weiguanwang/Information_Leakage_in_Backtesting). Forthcoming in the **Quantitative Finance**. A full version of this paper is available under the title, [Information leakage in backtesting](http://ssrn.com/abstract=3836631), available at SSRN 3836631
+3. [A note on spurious model selection](https://www.tandfonline.com/doi/full/10.1080/14697688.2022.2097120) (with [Johannes Ruf][JR]). [[code]](https://github.com/weiguanwang/Information_Leakage_in_Backtesting). **Quantitative Finance**, 2022(10). A full version of this paper is available under the title, [Information leakage in backtesting](http://ssrn.com/abstract=3836631), available at SSRN 3836631
 
    Presented by Weiguan at: [7th International Young Finance Scholars’ Conference](https://www.pku.org.uk/iyfs/Programme.html)
 
@@ -22,14 +23,18 @@ author_profile: false
 1. [Neural networks for option pricing and hedging: A literature review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3486363), **Journal of Computational Finance**, 2020, volume 24, number 1, pages 1–45. (with [Johannes Ruf][JR]) 
 
 
+***中文论文***
+1. [基于线性回归和神经网络的期权对冲方法：以上证50ETF期权为例](https://www.journal.shu.edu.cn/CN/abstract/abstract21023.shtml) (with 丁静，刘鑫). **上海大学学报（自然科学版）**.
+
 ***Papers submitted to peer-reviewed journals***
 
-1. Risk premium principal components for the Chines stock market
-2. 基于线性回归和神经网络的期权对冲方法：以上证50ETF期权为例
+1. How effective are narratives for pricing Chinese stocks? with Siqiang Gong
+2. A latent factor model for the Chinese option market
+3. Do lagged features help option hedging: A tale of two markets
+
 
 ***Working papers***
 
-1. Statistical hedging in multi-period with neural networks.
 2. Benchmarking deep hedging.
 3. Deep hedging with signature for non-Markovian setting.
 
