@@ -1,11 +1,11 @@
 # Fdb version 3
-["xdvipdfmx"] 1743432565 "cv.xdv" "cv.pdf" "cv" 1743432567
-  "cv.xdv" 1743432565 58316 c5f2aa45b4032ddb97c0ca0e030f1124 "xelatex"
+["xdvipdfmx"] 1743432793 "cv.xdv" "cv.pdf" "cv" 1743432795
+  "cv.xdv" 1743432792 58316 459a2654fb2f1313ad143a40ac6fb707 "xelatex"
   (generated)
   "cv.pdf"
-["xelatex"] 1743432557 "f:/BaiduSyncdisk/私人/个人网站/Remote/weiguanwang.github.io/files/cv_chinese_short/cv.tex" "cv.xdv" "cv" 1743432567
-  "cv.aux" 1743432565 2698 e6640fb7ac6c9d057403caec51c23355 "xelatex"
-  "cv.out" 1743432565 1542 af1e65c06007185787c309b4efbda67a "xelatex"
+["xelatex"] 1743432785 "f:/BaiduSyncdisk/私人/个人网站/Remote/weiguanwang.github.io/files/cv_chinese_short/cv.tex" "cv.xdv" "cv" 1743432795
+  "cv.aux" 1743432792 2698 e6640fb7ac6c9d057403caec51c23355 "xelatex"
+  "cv.out" 1743432792 1542 af1e65c06007185787c309b4efbda67a "xelatex"
   "e:/Apps/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1636997907 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "e:/Apps/texlive/2021/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1637031959 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "e:/Apps/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1636996715 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -185,6 +185,6 @@
   "f:/BaiduSyncdisk/私人/个人网站/Remote/weiguanwang.github.io/files/cv_chinese_short/cv.tex" 1743432508 10333 8982e4d8e43a1c803992e780e5caa589 ""
   (generated)
   "cv.out"
+  "cv.xdv"
   "cv.log"
   "cv.aux"
-  "cv.xdv"
