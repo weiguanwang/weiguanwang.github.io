@@ -7,8 +7,10 @@ author_profile: false
 
 ***Instructor***
 
+- Stock investment strategy.
+- Python data analysis
 - Derivatives Market,  Shanghai University, 2021-Now, full- and part- time MSc. Finance.
-- Machine Learning, Shanghai University, 2022-Now, undergraduates of Econimics and Finance.
+- Machine Learning with applicaitons in finance, Shanghai University, 2022-Now, undergraduates of Econimics and Finance.
 
 
 ***Teaching Assistant***

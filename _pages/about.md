@@ -17,7 +17,7 @@ My research interests include Machine Learning with applications to Quantitative
 
 **Contact**
 
-Room 578, Building 1, School of Economics, Shanghai University,
+Room 561, Building 1, School of Economics, Shanghai University,
 
 99 Shangda Road, Shanghai, People's Republic of China
 
