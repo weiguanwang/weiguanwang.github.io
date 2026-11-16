@@ -31,7 +31,7 @@ author_profile: false
 ***Papers submitted to peer-reviewed journals***
 
 1. [Re(Visiting) Time Series Foundation Models in Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5770562) (with Eghbal Rahimikia and Hao Ni). SSRN preprint, 2025.
-2. A latent factor model for the Chinese option market
+2. [The Virtue of Dynamic Factor Loadings for the Chinese Options Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5071380) (with Jie Mao, Qiyuan Pei and Haotian Zhuo). SSRN preprint, revised September 2026.
 3. Do lagged features help option hedging: A tale of two markets
 
 
