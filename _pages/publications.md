@@ -8,6 +8,8 @@ author_profile: false
 ## PUBLICATIONS
 
 ***Published and forthcoming papers in peer-reviewed journals***
+5. [How effective are narratives for pricing Chinese stocks?](https://www.tandfonline.com/doi/full/10.1080/00036846.2026.2676740) (with Siqiang Gong). **Applied Economics**, 2026.
+
 4. [Risk premium principal component in the Chinese stock market](https://www.sciencedirect.com/science/article/pii/S0927538X24003317) (with Jie Mao, Jingjing Shao). **Pacific-Basin Finance Journal**.
 
 3. [A note on spurious model selection](https://www.tandfonline.com/doi/full/10.1080/14697688.2022.2097120) (with [Johannes Ruf][JR]). [[code]](https://github.com/weiguanwang/Information_Leakage_in_Backtesting). **Quantitative Finance**, 2022(10). A full version of this paper is available under the title, [Information leakage in backtesting](http://ssrn.com/abstract=3836631), available at SSRN 3836631
@@ -28,7 +30,7 @@ author_profile: false
 
 ***Papers submitted to peer-reviewed journals***
 
-1. How effective are narratives for pricing Chinese stocks? with Siqiang Gong
+1. [Re(Visiting) Time Series Foundation Models in Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5770562) (with Eghbal Rahimikia and Hao Ni). SSRN preprint, 2025.
 2. A latent factor model for the Chinese option market
 3. Do lagged features help option hedging: A tale of two markets
 
