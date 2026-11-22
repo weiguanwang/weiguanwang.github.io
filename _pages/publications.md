@@ -32,13 +32,13 @@ author_profile: false
 
 1. [Re(Visiting) Time Series Foundation Models in Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5770562) (with Eghbal Rahimikia and Hao Ni). SSRN preprint, 2025.
 2. [The Virtue of Dynamic Factor Loadings for the Chinese Options Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5071380) (with Jie Mao, Qiyuan Pei and Haotian Zhuo). SSRN preprint, revised September 2026.
-3. Do lagged features help option hedging: A tale of two markets
+3. [Benchmarking Deep Hedging](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7737700) (with [Johannes Muhle-Karbe](https://www.ma.imperial.ac.uk/~jmuhleka/) and [Johannes Ruf][JR]). SSRN preprint, 2026.
+4. Do lagged features help option hedging: A tale of two markets
 
 
 ***Working papers***
 
-2. [Benchmarking Deep Hedging](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7737700) (with [Johannes Muhle-Karbe](https://www.ma.imperial.ac.uk/~jmuhleka/) and [Johannes Ruf][JR]). SSRN preprint, 2026.
-3. Deep hedging with signature for non-Markovian setting.
+1. Deep hedging with signature for non-Markovian setting.
 
 ***Theses***
 
