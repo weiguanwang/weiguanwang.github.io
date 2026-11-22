@@ -37,7 +37,7 @@ author_profile: false
 
 ***Working papers***
 
-2. Benchmarking deep hedging.
+2. [Benchmarking Deep Hedging](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7737700) (with [Johannes Muhle-Karbe](https://www.ma.imperial.ac.uk/~jmuhleka/) and [Johannes Ruf][JR]). SSRN preprint, 2026.
 3. Deep hedging with signature for non-Markovian setting.
 
 ***Theses***
